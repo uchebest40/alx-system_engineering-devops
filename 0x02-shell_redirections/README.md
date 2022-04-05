@@ -1,1 +1,1 @@
-0x02-shell_redirections Readme file
+describing what each script is doing
